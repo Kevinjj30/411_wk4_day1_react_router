@@ -3,8 +3,12 @@
   justify-content: space-between;
   flex-wrap: wrap;
   
+  
 }
-
+.bodytest{
+  background-color: aqua;
+  height: 100%
+}
 .card {
   width: 20vw;
   margin: 25px;
@@ -34,6 +38,7 @@ ul {
 
 .car-container {
   margin: 50px;
+  
 }
 
 .car-paper {
